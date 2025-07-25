@@ -37,15 +37,19 @@
 
 - 💸 **ExpenseTracker**  
   A clean UI for tracking expenses in React  
-  [GitHub](https://github.com/Himanshuvaishy/ExpenseTracker)
+  [GitHub](https://github.com/Himanshuvaishy/Expense-Tracker)
+   [Live](https://personalexpensetrack.netlify.app/)
 
-- 🏕 **Wanderlust (MERN)**  
+- 🏕 **WanderHive (MERN)**  
   Airbnb-style travel listing web app  
-  [GitHub](https://github.com/Himanshuvaishy/Wanderlust)
+  [GitHub](https://github.com/Himanshuvaishy/WanderHive)
+  [Live](https://major-project-8pbu.onrender.com)
 
-- 🍱 **Food Ordering App**  
+- 🍱 **ZaikaExpress**  
   Dynamic food order interface built in React  
-  [GitHub](https://github.com/Himanshuvaishy/Food_app)
+  [GitHub](https://github.com/Himanshuvaishy/ZaikaExpress)
+  [Live](https://zaikaexpress.netlify.app/)
+  
 
 ---
 
@@ -69,7 +73,7 @@
 ### 🎯 Goals
 
 - 🔥 Master full-stack development
-- 🧠 Improve DSA & Java backend design
+- 🧠 Improve DSA in JavaScript & backend design
 - 🚀 Launch real-world products and apps
 
 ---
