@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Vaishy</h1>
-<h3 align="center">Full Stack Developer | Java + MERN | India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer |  MERN | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="coding gif"/>
@@ -8,7 +8,7 @@
 - 🔭 Built **DevTinder**, a full-stack matchmaking app for developers  
 - 💸 Created **ExpenseTracker**, a React app for managing personal finances  
 - 🏕 Built **Wanderlust**, an Airbnb-inspired MERN stack project  
-- 🌱 Learning **Advanced DSA in Java**, **Auth**, and **Backend best practices**
+- 🌱 Learning **Advanced DSA in JavaScript**, **Auth**, and **Backend best practices**
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
 - 📫 Reach me: **vaishhimanshu83170@gmail.com**
 - 👨‍💻 All projects: [My Portfolio](https://himanshuvaishy.github.io/my_portfolio/)
