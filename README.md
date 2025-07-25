@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-- 🔭 I’m currently working on **Wanderlust**, a MERN-stack project inspired by Airbnb  
+- 🔭 I'vs created  **Wanderlust**, a MERN-stack project inspired by Airbnb  
 - 🌱 I’m learning **Authentication, Authorization, and advanced DSA in Java**
 - 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, Tailwind CSS**
 - 👨‍💻 All of my projects are available at [my portfolio](https://himanshuvaishy.github.io/my_portfolio/)
-- 📫 Reach me at **himanshuvaishy11@gmail.com**
+- 📫 Reach me at **vaishhimanshu83170@gmail.com**
 - ⚡ Fun fact: I meditate and love learning new things daily 🧘
 
 ---
